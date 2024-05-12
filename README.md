@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Pandey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kp0604" alt="kp0604" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://portfoliokartikeyapandey.netlify.app/](https://portfoliokartikeyapandey.netlify.app/)
 
 - 📫 How to reach me **work.kartikeya64@gmail.com**
